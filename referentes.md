@@ -18,22 +18,22 @@ alt="Hole in Space" width="640" height="360" /></a>
 <a href="https://vimeo.com/274553374" target="_blank"><img src="https://i.vimeocdn.com/video/706658032.webp?mw=960&mh=540" 
 alt="Tele-present Wind" width="640" height="360" /></a>
 
-![]()
-<iframe src="https://player.vimeo.com/video/274553374" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-
 ## Datos en tiempo real (APIs, Internet)
 
 ### Brian House y Kyle McDonald [2013-2014] Conversnitch
 
-<iframe src="https://player.vimeo.com/video/87564506?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<a href="https://vimeo.com/87564506" target="_blank"><img src="https://i.vimeocdn.com/video/471116780.webp?mw=960&mh=540" 
+alt="Conversnitch" width="640" height="360" /></a>
 
 ### James Leng [2012] Point Cloud
 
-<iframe src="https://player.vimeo.com/video/42896836" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+<a href="https://vimeo.com/42896836" target="_blank"><img src="https://i.vimeocdn.com/video/297725962.webp?mw=960&mh=540" 
+alt="Point Cloud" width="640" height="360" /></a>
 
 ## Rachel Knoll [2013] Listen and Repeat
 
-<iframe src="https://player.vimeo.com/video/64517752?color=5842ff&title=0&byline=0&portrait=0&badge=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<a href="https://vimeo.com/64517752" target="_blank"><img src="https://i.vimeocdn.com/video/435196076.webp?mw=960&mh=540" 
+alt="Listen and Repeat" width="640" height="360" /></a>
 
 ## Sensores
 
@@ -44,15 +44,18 @@ alt="Breath" width="640" height="360" /></a>
 
 ### Camille Utterback [2003] Potent Objects
 
-<iframe src="https://player.vimeo.com/video/13111016" width="640" height="480" frameborder="0" allowfullscreen></iframe>
+<a href="https://vimeo.com/13111016" target="_blank"><img src="https://i.vimeocdn.com/video/74716043.webp?mw=800&mh=600" 
+alt="Potent Objects" width="640" height="360" /></a>
 
 ### Adam Chapman [2003] Dance/Fight
 
-<iframe src="https://player.vimeo.com/video/35513076" width="640" height="480" frameborder="0" allowfullscreen></iframe>
+<a href="https://vimeo.com/35513076" target="_blank"><img src="https://i.vimeocdn.com/video/242835227.webp?mw=800&mh=600" 
+alt="Dance/Fight" width="640" height="360" /></a>
 
 ### Nikolas Schmid-Pfähler [2012] Vincent und Emily v2
 
-<iframe src="https://player.vimeo.com/video/55759259?color=d7a317&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<a href="https://vimeo.com/55759259" target="_blank"><img src="https://i.vimeocdn.com/video/424487677.webp?mw=960&mh=540" 
+alt="Vincent und Emily v2" width="640" height="360" /></a>
 
 ### Rafael Lozano-Hemmer [2006] Almacén de Corazonadas
 
@@ -82,11 +85,13 @@ alt="Drawing With My Eyes" width="640" height="360" /></a>
 
 ### Kyle McDonald [2012] Blind Self Portrait
 
-<iframe src="https://player.vimeo.com/video/40279845" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+<a href="https://vimeo.com/40279845" target="_blank"><img src="https://i.vimeocdn.com/video/278270561.webp?mw=960&mh=540" 
+alt="Blind Self Portrait" width="640" height="360" /></a>
 
 ### David Bowen [2016] Cloud piano
 
-<iframe src="https://player.vimeo.com/video/101857804" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<a href="https://vimeo.com/101857804" target="_blank"><img src="https://i.vimeocdn.com/video/483732419.webp?mw=960&mh=540" 
+alt="Blind Self Portrait" width="640" height="360" /></a>
 
 ### Leo Nuñez [2014] Desilusiones Opticas
 
