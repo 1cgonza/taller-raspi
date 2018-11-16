@@ -2,7 +2,7 @@
 
 ## Pinout
 
-![](./img/pi3_gpio.png)
+![](https://pinout.xyz/resources/raspberry-pi-pinout.png)
 
 Una aplicación muy útil para investigar más a fondo cada pin: [https://pinout.xyz/](https://pinout.xyz/)
 
@@ -137,7 +137,7 @@ while True:
 
 El MCP3008 es un conversor analógico digital (ADC) con 8 canales de entrada analógica y se comunica con la Pi por SPI. Primero debemos configurar la interfaz SPI de la Pi.
 
-En el terminal usamos el siguiente comando para instalas `spidev`:
+En el terminal usamos el siguiente comando para instalar `spidev`:
 
 ``` bash
 sudo apt-get install python3-spidev python-spidev
