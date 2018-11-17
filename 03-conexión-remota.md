@@ -43,8 +43,8 @@ En Remote Desktop le damos agregar nuevo computador y en el campo **PC Name** us
 
 En nuestro caso les dejamos el usuario y contraseña predeterminadas a las Pi cuando estábamos instalando el sistema operativo.
 
-User Name: **pi**
-Password: **raspberry**
+User Name: **pi**  
+Password: **raspberry**  
 Friendly Name: *Puede ser cualquier nombre, en este caso lo voy a nombrar Raspi*
 
 ![](img/add-user.png)
