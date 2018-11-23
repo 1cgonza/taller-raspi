@@ -8,3 +8,15 @@
 - [Referentes](referentes.md)
 - [Link a clase de Computación Física de la Javeriana](https://cf.juancgonzalez.com)
 - [Link a tutorial de Arduino con Processing](https://cf.juancgonzalez.com/cronograma/semana8-codigo.html)
+
+
+## Camara
+
+```python
+from picamera import PiCamera
+from time import sleep
+
+camera = PiCamera()
+
+camera.start_preview()
+```
