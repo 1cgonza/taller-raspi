@@ -17,6 +17,12 @@ sudo python3 get-pip.py
 sudo pip install opencv-contrib-python
 ```
 
+## Activar modulo de cámara para opencv
+
+```bash
+sudo modprobe bcm2835-v4l2
+```
+
 ## Programa cuadricula
 
 ```python
